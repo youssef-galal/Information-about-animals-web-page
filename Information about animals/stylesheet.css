@@ -1,0 +1,106 @@
+.b1{
+background-image: url("wiledlife.jpG");
+background-color: rgb(0, 183, 255);
+flex-wrap: wrap;
+}
+#container{
+    border: 10px  rgb(255, 137, 26);
+      padding : 10px;
+        width: 400px;
+      margin:  auto ;
+      float: left;
+      background-color: rgb(248, 246, 99);
+    
+    }
+  
+#card
+{ border :10px solid rgb(255, 137, 26);
+      
+    padding:10px;
+}
+    
+    #interesting-fact
+    { 
+      font-style : italic;
+}
+    
+span{ font-weight : bold;}
+    
+li{ list-style : none;}
+    
+    
+#container img{ 
+        border: 10px solid rgb(255, 137, 26);
+        width : 300px;
+        height:400px ;
+      margin : 10px;
+      display : block;}
+
+/* This is a single-line comment to separet between cards */
+#container3{
+    border: 5px  rgb(255, 137, 26);
+      padding : 10px;
+        width: 400px;
+      margin: auto  ;
+      background-color: rgb(248, 246, 99);
+    
+    }
+  
+#card3
+{ border :10px solid rgb(255, 137, 26);
+      
+    padding:10px;
+}
+    
+    #interesting-facts3
+    { 
+      font-style : italic;
+}
+    
+span{ font-weight : bold;}
+    
+li{ list-style : none;}
+    
+    
+#container3 img{ 
+        border: 10px solid rgb(255, 137, 26);
+        width : 300px;
+        height:400px ;
+      margin : 10px;
+      display : block;}
+
+/* This is a single-line comment to separet between cards */
+#container2{
+    border: 10px  rgb(255, 137, 26);
+      padding : 10px;
+        width: 400px;
+      margin: auto ;
+      float: right;
+      background-color: rgb(248, 246, 99);
+    
+    }
+  
+#card2
+{ border :10px solid rgb(255, 137, 26);
+      
+    padding:10px;
+}
+    
+    #interesting-facts2
+    { 
+      font-style : italic;
+}
+    
+span{ font-weight : bold;}
+    
+li{ list-style : none;}
+    
+    
+#container2 img{ 
+        border: 10px solid rgb(255, 137, 26);
+        width : 300px;
+        height:400px ;
+      margin : 10px;
+      display : block;}
+
+/* background-color: rgb(0, 183, 255);*/
